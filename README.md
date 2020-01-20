@@ -1,11 +1,17 @@
+# Important
+
+**This fork is now discontinued. Users should move to
+[LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl)
+instead.**
+
 # Registrator
 
 See https://github.com/JuliaComputing/Registrator.jl for the real Registrator.
 
-This fork, adding minor fixes to
+~~This fork, adding minor fixes to
 https://github.com/adamslc/Registrator.jl/tree/refactor, has the sole
 purpose of enabling creation and manual updates of small private
-registries until Registrator proper supports that.
+registries until Registrator proper supports that.~~ See message above.
 
 ## Compatibility
 
